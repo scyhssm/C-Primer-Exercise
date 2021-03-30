@@ -15,10 +15,10 @@
 
 输出：
 
-2 occurs 1 times
-3 occurs 1 times
-4 occurs 1 times
-5 occurs 1 times
-6 occurs 1 times
-7 occurs 1 times
+2 occurs 1 times  
+3 occurs 1 times  
+4 occurs 1 times  
+5 occurs 1 times  
+6 occurs 1 times  
+7 occurs 1 times  
 
